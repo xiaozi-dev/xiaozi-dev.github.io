@@ -1,5 +1,5 @@
 ---
-title:　The difference between copy and clone in Python
+title: The difference between copy and clone in Python
 category: "Coding"
 tags: [Python, Data Analysis]
 ---
